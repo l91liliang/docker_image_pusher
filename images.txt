@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 ghcr.io/home-assistant/home-assistant:stable
-docker pull whyour/qinglong:latest
+whyour/qinglong:latest
