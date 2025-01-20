@@ -8,3 +8,4 @@ xhofe/alist:latest
 ghcr.io/home-assistant/home-assistant:stable
 whyour/qinglong:latest
 jellyfin/jellyfin:latest
+pixman/pixman:latest
