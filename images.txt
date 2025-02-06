@@ -11,3 +11,4 @@ jellyfin/jellyfin:latest
 pixman/pixman:latest
 xhofe/alist:latest
 nyanmisaka/jellyfin:latest
+jxxghp/moviepilot-v2:latest
