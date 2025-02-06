@@ -5,10 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/home-assistant/home-assistant:stable
-whyour/qinglong:latest
-jellyfin/jellyfin:latest
-pixman/pixman:latest
-xhofe/alist:latest
-nyanmisaka/jellyfin:latest
 jxxghp/moviepilot-v2:latest
